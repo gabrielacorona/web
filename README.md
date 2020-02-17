@@ -6,4 +6,7 @@ README.md
 <ol>
     <li>git init</li>
     <li> git add namefile.ext</li>
+    <li> git commit -m 'first commit'</li>
+    <li> git remote add origin url github repo</li>
+    <li> git push -u origin master</li>
 </ol>
